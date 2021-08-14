@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+API
+
+https://api.covid19india.org/data.json
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
