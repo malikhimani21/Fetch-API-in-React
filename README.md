@@ -4,6 +4,10 @@ API
 
 https://api.covid19india.org/data.json
 
+![output](https://user-images.githubusercontent.com/55083861/129439141-14e35fa7-0e2d-4855-98dc-731e36d12742.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
